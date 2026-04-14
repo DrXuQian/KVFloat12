@@ -1,0 +1,21 @@
+{
+  "model": "Qwen3-4B",
+  "eval": "lm-eval mmlu 5-shot",
+  "baseline": {
+    "acc": 0.7012,
+    "stderr": 0.0037
+  },
+  "kvfloat13_5bit": {
+    "acc": 0.7008973080757727,
+    "stderr": 0.003678553184421293,
+    "coverage": 99.99999848623125
+  },
+  "lut_117_132": {
+    "acc": 0.6985,
+    "stderr": 0.0037
+  },
+  "base_offset": {
+    "acc": 0.700826093149124,
+    "stderr": 0.0036810838592009646
+  }
+}
