@@ -1,0 +1,12 @@
+{
+  "model": "Qwen3-4B",
+  "exp_entropy": 3.297538984407898,
+  "huffman_avg_code_len": 3.3433974998584697,
+  "huffman_total_bits": 11.343397499858469,
+  "kvfloat13_bits": 13,
+  "bf16_bits": 16,
+  "huffman_compression": 29.10376562588457,
+  "kvfloat13_compression": 18.75,
+  "full_bf16_entropy": 11.339329735427349,
+  "sign_exp_entropy": 4.326289930194874
+}

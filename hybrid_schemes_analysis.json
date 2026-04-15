@@ -1,0 +1,14 @@
+{
+  "entropy_bits": 3.2915691333970725,
+  "kvfloat13_compression": 18.75,
+  "adaptive_base_offset_compression": 18.104551474799546,
+  "overflow_4bit_compression": 18.379510309278345,
+  "tans_compression": 27.34375,
+  "huffman_compression": 29.1,
+  "block_span_distribution": {
+    "le_3": 0.0,
+    "le_7": 7.787442726231386,
+    "le_15": 94.38538087056128
+  },
+  "residual_entropy": 2.8830996503691577
+}
